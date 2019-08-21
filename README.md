@@ -35,3 +35,4 @@ const MiComponente = (props) => {
 npm install --global react-cli
 ```
 - Dentro de nuestra carpeta **src** se encontrarán todos nuestros archivos.
+- Se adjunta el enlace para documentación básica de Markdown [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
